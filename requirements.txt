@@ -1,0 +1,6 @@
+fastapi
+numpy
+Pillow
+torch
+torchvision
+
